@@ -1,6 +1,6 @@
 common:
   components:
-    - name: TestAnAn
+    - name: TestAn
       main_owner: Soft
       content_owner: N/A
       
